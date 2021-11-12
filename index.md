@@ -43,7 +43,6 @@ layout: default
   </li>
 
 
-  <li> **Predicción de ventas con machine learning** </li>
 </ul>
 * * *
 ## Educación
@@ -97,92 +96,87 @@ layout: default
   <h2>Competencias y tecnologías</h2>
     <center>
       <h3> Data Science </h3>
-        <ul class="list-inline dev-icons">
-          <figure class="list-inline-item">
-              <span class="iconify" data-icon="akar-icons:python-fill"></span>
-                <figcaption> Python </figcaption>
-          </figure>
-          <figure class="list-inline-item">
-              <span class="iconify" data-icon="simple-icons:keras"></span>     
-                <figcaption> Keras </figcaption>
-          </figure>
-          <figure class="list-inline-item">
-              <span class="iconify" data-icon="vscode-icons:file-type-excel"></span>
-                <figcaption>&nbsp;&nbsp;&nbsp;Hoja de cálculo</figcaption>
-          </figure>
-          <figure class="list-inline-item">
-               <li class="list-inline-item"><img src="assets/img/sklearn.svg" alt="Scikit learn"   
-                            width= 100
-                            height= auto> </li>
-                <figcaption>Scikit learn&nbsp;</figcaption>
-          </figure>
-          <figure class="list-inline-item">
-                        <li class="list-inline-item"><img src="assets/img/hf.png" alt="Hugging Face"   
-                            width= 60
-                            height= auto> </li>
-                        <figcaption>Hugging Face&nbsp;&nbsp;</figcaption>
-          </figure>
-          <figure class="list-inline-item">
-                            <span class="iconify" data-icon="simple-icons:pandas"></span>
-                            <figcaption >Pandas</figcaption>
-          </figure>
-        </ul>
+  <div class="iconbox">
+  
+    <div>
+       <span class="iconify" data-icon="akar-icons:python-fill" style="font-size: 3rem;"></span>
+      <p>Python</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="simple-icons:keras" style="font-size: 3rem;"></span>
+      <p>Keras</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="vscode-icons:file-type-excel" style="font-size: 3rem;"></span>
+      <p>Hoja de cálculo</p>
+    </div>
+    <div>
+       <img src="assets/img/sklearn.svg" alt="Scikit learn"   
+        width= 75
+        height= auto>
+      <p>Scikit learn</p>
+    </div>
+    <div>
+       <img src="assets/img/hf.png" alt="Hugging Face"   
+        width= 60
+        height= auto>
+      <p>Hugging Face</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="simple-icons:pandas" style="font-size: 3rem;"></span>
+      <p>Pandas</p>
+    </div>
+  </div>
 
-    <h3> Desarrollo web </h3>
-      <ul class="list-inline dev-icons">
-        <figure class="list-inline-item">
-                        <span class="iconify" data-icon="cib:java"></span>
-                        <figcaption>Java</figcaption>
-        </figure>
-        <figure class="list-inline-item">
-                        <span class="iconify" data-icon="logos:spring-icon"></span>
-                        <figcaption>Spring&nbsp;</figcaption>
-        </figure>
-        <figure class="list-inline-item">
-                        <span class="iconify" data-icon="akar-icons:django-fill"></span>
-                        <figcaption>Django</figcaption>
-        </figure>
-        <figure class="list-inline-item">
-                        <span class="iconify" data-icon="akar-icons:html-fill"></span>
-                        <figcaption>HTML</figcaption>
-        </figure>
-        <figure class="list-inline-item">
-                        <span class="iconify" data-icon="logos:hibernate"></span>
-                        <figcaption>Hibernate</figcaption>
-        </figure>
-        <figure class="list-inline-item">
-                        <span class="iconify" data-icon="akar-icons:react-fill"></span>
-                        <figcaption>React</figcaption>
-        </figure>
-      </ul>
-
-      <h3>Bases de datos</h3>
-      <ul class="list-inline dev-icons">
-                        <figure class="list-inline-item">
-                            <span class="iconify" data-icon="cib:mysql"></span>
-                        <figcaption>MySQL</figcaption>
-                        </figure>
-                        <figure class="list-inline-item">
-                            <span class="iconify" data-icon="fontisto:oracle"></span>
-                        <figcaption>Oracle</figcaption>
-                        </figure>
-                        <figure class="list-inline-item">
-                            <span class="iconify" data-icon="file-icons:sqlite"></span>
-                        <figcaption>SQLite</figcaption>
-                        </figure>
-      </ul>
-      <ul>
+<br/><br/><br/>
 
 
 
-      </ul>
+
+  <div class="iconbox">
+      <h3> Desarrollo web </h3>
+    <div>
+       <span class="iconify" data-icon="cib:java" style="font-size: 3rem;"></span>
+      <p>Java</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="logos:spring-icon" style="font-size: 3rem;"></span>
+      <p>Spring</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="akar-icons:django-fill" style="font-size: 3rem;"></span>
+      <p>Django</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="akar-icons:html-fill" style="font-size: 3rem;"></span>
+      <p>HTML</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="logos:hibernate" style="font-size: 3rem;"></span>
+      <p>Hibernate</p>
+    </div>
+    </div>
+
+<br/><br/><br/>
+ 
+    
+  <div class="iconbox">
+     <h3>Bases de datos </h3>
+    <div>
+       <span class="iconify" data-icon="cib:mysql" style="font-size: 3rem;"></span>
+      <p>MySQL</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="fontisto:oracle" style="font-size: 3rem;"></span>
+      <p>Oracle</p>
+    </div>
+    <div>
+       <span class="iconify" data-icon="file-icons:sqlite" style="font-size: 3rem;"></span>
+      <p>SQLite</p>
+    </div>
+    </div>
+
     </center>
   </div>
 </section>
-
-
-<div id="client_logos">
-  <img class="logo-alineado" title="mouseflow_logo" src="assets/img/sklearn.svg" alt="" width="150" height="50" />
-  <img class="logo-alineado;" title="piiholo_logo" src="assets/img/sklearn.svg" alt="" width="150" height="50" />
-</div>
 

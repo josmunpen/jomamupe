@@ -1,5 +1,7 @@
 title: José Manuel Muñiz Peña
-description: TEST MINIMALIST
+description: 
+show_downloads: false
+google_analytics: UA-108144808-1
 remote_theme: BDHU/minimalist
 plugins:
 - jekyll-remote-theme

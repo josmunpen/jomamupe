@@ -91,9 +91,11 @@
   font-size: 3rem;
 }
 
+/*
 figcaption {
   font-size: 1rem;
 }
+*/
 
 .logo-alineado{
   display: inline;
@@ -127,7 +129,7 @@ figcaption {
 }
 
 .tag-blue{
-  background-color: #3700ff54;
+  background-color: #001aff3b;
 }
 
 .tag-yellow{
@@ -141,4 +143,23 @@ figcaption {
 .bloque-left-right {
   display: flex;
   justify-content: space-between;
+}
+
+h1{
+  font-size: x-large;
+}
+
+
+/* %%%%%%%%%%%%%%%% */
+.iconbox {
+  height: 128px;
+  padding: 20px;
+}
+.iconbox > div {
+  text-align: center;
+  width: 128px;
+  display: inline-block;
+}
+.iconbox p {
+  margin: 0;
 }
