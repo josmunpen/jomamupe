@@ -5,16 +5,15 @@ layout: default
   <script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 </head>
 
-<p style="text-align: justify"> Estudiante de Máster  en Ingeniería del Software: Cloud, Datos y Gestión de las Tecnologías de la Información de la Universidad de Sevilla. Me encanta formarme en tecnologías nuevas y el aprendizaje continuo.</p>
+<p style="text-align: justify"> Soy un estudiante del Máster en ingeniería del Software: Cloud, Datos y Gestión de las Tecnologías de la Información de la Universidad de Sevilla. </p>
 
 <p style="text-align: justify"> Me ilusiona trabajar con datos: desde limpiarlos y darles el formato adecuado hasta obtener predicciones mediante técnicas de Machine Learning. Busco un proyecto en el que crecer tanto personal como profesionalmente y demostrar el valor añadido que puedo aportar.  </p>
-
 * * *
 
 ## Portfolio
 <ul>
-  <li> <span style="font-weight: bold;"> Exploratory Data Analysis (EDA) </span>
-    <p>
+  <li> <a href="https://drive.google.com/file/d/19_kgn51_d9Ui_R5DGm9GynDs2qepRPdA/view?usp=sharing" style="font-weight: bold; text-decoration: underline;" target="_blank"> Exploratory Data Analysis (EDA) </a>
+    <p style="text-align: justify;">
     Un análisis exploratorio de los datos permite facilitar el posterior trabajo con los mismos, así como obtener conocimiento valioso para la organización.   En este caso se analiza un dataset con información sobre usuarios de tarjeta de crédito.
     <br/><br/>
       <span class="tag tag-green">Python</span> 
@@ -23,19 +22,21 @@ layout: default
     </p>
   </li>
 
-  <li> <span style="font-weight: bold;"> Generación de texto </span>
-    <p>
-    La llegada de las arquitecturas basadas en transformers ha revolucionado el aprendizaje profundo y el Procesamiento del Lenguaje Natural. En este proyecto se aborda la tarea de generación de titulares a partir de los cuerpos de noticias.
+  <li> <a href="https://drive.google.com/file/d/1pzkgU7Ly8XmViDhRT5S1uhUu2PuX1r2r/view?usp=sharing" style="font-weight: bold; text-decoration: underline;" target="_blank"> Generación de titulares </a>
+    <p style="text-align: justify;">
+    La llegada de las arquitecturas basadas en transformers ha revolucionado el aprendizaje profundo y el Procesamiento del Lenguaje Natural. En este proyecto se aborda la tarea de generación de titulares a partir de los cuerpos de noticias. El modelo está disponible para su inferencia o un posible segundo afinamiento en el siguiente  <a href="https://huggingface.co/josmunpen/mt5-small-spanish-summarization" style="text-decoration: underline;"> enlace</a>.
+
     <br/><br/>
       <span class="tag tag-green">Python</span> 
-      <span class="tag tag-blue">Aprendizaje profundo</span> 
+      <span class="tag tag-blue">Deep learning</span> 
       <span class="tag tag-yellow">PLN</span> 
     </p>
   </li>
 
-  <li> <span style="font-weight: bold;"> Predicción de ventas </span>
+  <li style="display:none;"> <span style="font-weight: bold;"> Predicción de ventas </span>
     <p>
     La llegada de las arquitecturas basadas en transformers ha revolucionado el aprendizaje profundo y el Procesamiento del Lenguaje Natural. En este proyecto se aborda la tarea de generación de titulares a partir de los cuerpos de noticias.
+
     <br/><br/>
       <span class="tag tag-green">Python</span> 
       <span class="tag tag-pink">Aprendizaje automático</span> 
@@ -83,10 +84,11 @@ layout: default
 
 * * *
 ## Otros cursos y certificaciones
-* Kaggle microcourses: Python, Intro to Machine Learning, Pandas, Data Visualization (Kaggle)
 * Scrum Foundations Professional Certificate (CertiProf)
 * Nivel B1 de inglés (Instituto de Idiomas)
 * Nivel B1 de francés (DELF)
+* Kaggle microcourses: Python, Intro to Machine Learning, Pandas, Data Visualization (Kaggle)
+
 
 
 * * *
@@ -130,6 +132,9 @@ layout: default
 
 <br/><br/><br/>
 
+<div id="mobile-sec">
+  <br/><br/><br/>
+</div>
 
 
 
@@ -158,6 +163,9 @@ layout: default
     </div>
 
 <br/><br/><br/>
+<div id="mobile-sec">
+  <br/><br/><br/>
+</div>
  
     
   <div class="iconbox">

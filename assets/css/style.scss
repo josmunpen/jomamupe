@@ -163,3 +163,10 @@ h1{
 .iconbox p {
   margin: 0;
 }
+
+
+@media print, screen and (min-width: 961px) {
+  #mobile-sec{
+    display: none !important; 
+  }
+}
