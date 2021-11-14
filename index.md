@@ -24,7 +24,7 @@ layout: default
 
   <li> <a href="https://drive.google.com/file/d/1pzkgU7Ly8XmViDhRT5S1uhUu2PuX1r2r/view?usp=sharing" style="font-weight: bold; text-decoration: underline;" target="_blank"> Generación de titulares </a>
     <p style="text-align: justify;">
-    La llegada de las arquitecturas basadas en transformers ha revolucionado el aprendizaje profundo y el Procesamiento del Lenguaje Natural. En este proyecto se aborda la tarea de generación de titulares a partir de los cuerpos de noticias. El modelo está disponible para su inferencia o un posible segundo afinamiento en el siguiente  <a href="https://huggingface.co/josmunpen/mt5-small-spanish-summarization" style="text-decoration: underline;"> enlace</a>.
+    La llegada de las arquitecturas basadas en transformers ha revolucionado el aprendizaje profundo y el Procesamiento del Lenguaje Natural. En este proyecto se aborda la tarea de generación de titulares a partir de los cuerpos de noticias. El modelo está disponible para su inferencia o un posible segundo afinamiento en el siguiente  <a href="https://huggingface.co/josmunpen/mt5-small-spanish-summarization" style="text-decoration: underline;" target="_blank"> enlace</a>.
 
     <br/><br/>
       <span class="tag tag-green">Python</span> 
