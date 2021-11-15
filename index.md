@@ -5,7 +5,7 @@ layout: default
   <script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 </head>
 
-<p style="text-align: justify"> Soy un estudiante del Máster en ingeniería del Software: Cloud, Datos y Gestión de las Tecnologías de la Información de la Universidad de Sevilla. </p>
+<p style="text-align: justify"> Soy un estudiante del Máster en Ingeniería del Software: Cloud, Datos y Gestión de las Tecnologías de la Información de la Universidad de Sevilla. </p>
 
 <p style="text-align: justify"> Me ilusiona trabajar con datos: desde limpiarlos y darles el formato adecuado hasta obtener predicciones mediante técnicas de Machine Learning. Busco un proyecto en el que crecer tanto personal como profesionalmente y demostrar el valor añadido que puedo aportar.  </p>
 * * *
